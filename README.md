@@ -2,6 +2,9 @@
 
 I use google calendar to schedule appointments
 
+### Project Overview
+We rely on Google Calendar for scheduling appointments, creating tasks, organizing our schedule, and coordinating events with others.
+
 ### Booking and scheduling Appointments
 
 ![Screenshot (22)](https://github.com/lacreameo83/Appointment-Scheduling/assets/142677806/61ea2123-d8b0-4811-b010-44a7fcfb8205)
